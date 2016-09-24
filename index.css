@@ -1,0 +1,13 @@
+body{
+  bcakground-color:black;
+}
+
+div{
+  color:white;
+  font-family:Consolas;
+  font-size:50px;
+  margin:0px auto;
+  position:absolute;
+  top:50%;
+  left:50%;
+}
