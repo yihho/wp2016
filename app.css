@@ -29,7 +29,7 @@
 .skyline{
   position: relative;
   top: 10%;
-  left: 25%;
+  left: 28%;
   height: 415px;
   width: 950px;
 }
@@ -52,7 +52,7 @@
 }
 
 #name{
-  top: 80%;
+  top: 75%;
   left: 40%;
 }
 
@@ -81,6 +81,7 @@
   position: relative;
   bottom: 15%;
   left: 5px;
+  font-size: 42px;
 }
 
 .skill{
