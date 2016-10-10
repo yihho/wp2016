@@ -29,7 +29,7 @@
 .skyline{
   position: relative;
   top: 10%;
-  left: 22%;
+  left: 25%;
   height: 415px;
   width: 950px;
 }
@@ -52,7 +52,7 @@
 }
 
 #name{
-  top: 65%;
+  top: 80%;
   left: 40%;
 }
 
@@ -75,6 +75,12 @@
   font-size: 36px;
   letter-spacing: -3px;
   color: white;
+}
+
+.interesttext{
+  position: relative;
+  bottom: 15%;
+  left: 5px;
 }
 
 .skill{
