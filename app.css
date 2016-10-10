@@ -1,0 +1,151 @@
+.outer{  
+  background: white;
+  padding-top: 200px; 
+  padding-down: 200px; 
+  margin-right: -50px;
+  margin-left: -50px;
+}
+
+.inner{
+  height: 600px;
+}
+
+#first{
+  background: rgba(130,124,107,0.7);
+}
+
+#second{
+  background: rgba(115,115,115,0.85);
+}
+
+#third{
+  background: rgba(140,145,152,0.85);
+}
+
+#fourth{
+  background: rgba(113,126,118,0.85);
+}
+
+.skyline{
+  height: 415px;
+  width: 950px;
+}
+
+.icon{
+  height: 300px;
+  width: 3000px;
+}
+
+.text{
+  font-family: Orator Std Medium;
+  font-size: 72px;
+  position: relative;
+  color: white;
+}
+
+#title{
+  top: 10%;
+  left: 40%;
+}
+
+#name{
+  top: 65%;
+  left: 40%;
+}
+
+.frame{
+  display: inline-block;
+  border: solid 3px white;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+}
+
+.interest{
+  position: relative;
+  top: 10%;
+  left: 20%;
+}
+
+.smalltext{
+  font-family: Orator Std Medium;
+  font-size: 36px;
+  letter-spacing: -3px;
+  color: white;
+}
+
+.skill{
+  display: inline-block;
+  border: solid 3px white;
+  width: 600px;
+  height: 600px;
+  margin: 10px;
+}
+
+.star{
+  width: 35px;
+  height: 35px;
+}
+
+#contact{
+  top: 40%;
+  left: 40%;
+}
+
+.email{
+  position: relative;
+  font-family: Calibri;
+  font-size: 35px;
+  color: white;
+  top: 40%;
+  left: 42%;
+}
+
+footer{
+  position: relative;
+  font-family: Calibri;
+  font-size: 20px;
+  color: white;
+  top: 70%;
+  left: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
