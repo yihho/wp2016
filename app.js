@@ -1,0 +1,1 @@
+$('#name').css("color", "black");
