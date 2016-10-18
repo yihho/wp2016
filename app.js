@@ -1,6 +1,12 @@
 $(document).ready(function(){
   $(".skyline").fadein('slow');
-});
+
+$(".skyline").hover(function(){
+    $(this).fadeout('slow');
+  }, function(){
+    $(this).fadein('slow');
+  });
+);
 
 $(document).ready(function(){
   $(".frame").hover(function(){
