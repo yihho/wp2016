@@ -1,7 +1,5 @@
 $(document).ready(function(){
-  $(".skyline").fadein('slow');
-
-$(".skyline").hover(function(){
+  $(".skyline").hover(function(){
     $(this).fadeout('slow');
   }, function(){
     $(this).fadein('slow');
