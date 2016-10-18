@@ -1,7 +1,11 @@
+body{
+  overflow-x: hidden;
+}
+
 .outer{  
   background: white;
   padding-top: 200px; 
-  padding-down: 200px; 
+  padding-bottom: 200px; 
   margin-right: -50px;
   margin-left: -50px;
 }
@@ -108,8 +112,7 @@
   font-size: 35px;
   color: white;
   top: 40%;
-  left: 42%;
-}
+  left:40404040}
 
 footer{
   position: relative;
