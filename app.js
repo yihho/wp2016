@@ -4,9 +4,6 @@ $(document).ready(function(){
   }, function(){
     $(this).fadein('slow');
   });
-);
-
-$(document).ready(function(){
   $(".frame").hover(function(){
     $(this).animate({right:'5px', bottom:'5px'});
     $(this).css({background:'rgba(255, 255, 255, 0.2)'});
