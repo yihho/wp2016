@@ -1,8 +1,8 @@
 $(document).ready(function(){
   $(".skyline").hover(function(){
-    $(this).fadeout('slow');
+    $(this).fadeOut('slow');
   }, function(){
-    $(this).fadein('slow');
+    $(this).fadeIn('slow');
   });
   $(".frame").hover(function(){
     $(this).animate({right:'5px', bottom:'5px'});
@@ -13,4 +13,9 @@ $(document).ready(function(){
     $(this).css({background:'rgba(255, 255, 255, 0)'});
     $(this).css({boxShadow: '5px 5px rgba(41, 36, 33, 0)'});
   });
+
+  $(".line").hover(function(){
+    $(this).find(".fillframe").fadeOut("normal");
+    $(this).find(".fillframe").fadeIn("normal");
+  });  
 });
